@@ -7,3 +7,8 @@ articlesFrameworks And so on
 
 ## Build Platforms
 [screwdriver](https://screwdriver.cd/)
+
+## Bibs
+
+[FuzzingWikipedia](https://en.wikipedia.org/wiki/Fuzzing)  
+[AddressSanitizerWikipedia](https://en.wikipedia.org/wiki/AddressSanitizer)
