@@ -8,7 +8,10 @@ articlesFrameworks And so on
 ## Build Platforms
 [screwdriver](https://screwdriver.cd/)  
 [FuzzingHeise](https://www.heise.de/hintergrund/Fuzzing-Angriff-ist-die-beste-Verteidigung-4659818.html)  
-## Bibs
 
+## Bibs
 [FuzzingWikipedia](https://en.wikipedia.org/wiki/Fuzzing)  
 [AddressSanitizerWikipedia](https://en.wikipedia.org/wiki/AddressSanitizer)  
+
+## Security
+[Who is responsible for security](https://www.heise.de/developer/meldung/Studie-Je-groesser-das-Unternehmen-desto-groesser-die-Security-Bemuehungen-4662799.html)  
