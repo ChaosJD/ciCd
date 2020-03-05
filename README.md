@@ -18,6 +18,9 @@ articlesFrameworks And so on
 ## Security
 [Who is responsible for security](https://www.heise.de/developer/meldung/Studie-Je-groesser-das-Unternehmen-desto-groesser-die-Security-Bemuehungen-4662799.html)   
 
+## How you do it NOT
+[ExpensiveExperienceBecauseYouAreWell](https://www.golem.de/news/grafikentwickler-x-org-community-wegen-ci-in-geldsorgen-2002-146917.html)  
+
 
 
 
