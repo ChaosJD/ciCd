@@ -21,6 +21,9 @@ articlesFrameworks And so on
 ## How you do it NOT
 [ExpensiveExperienceBecauseYouAreWell](https://www.golem.de/news/grafikentwickler-x-org-community-wegen-ci-in-geldsorgen-2002-146917.html)  
 
+## containerization
+[WhatAmazonDoes](https://www.golem.de/news/bottlerocket-amazon-baut-sich-eigenen-container-host-2003-147184.html)  
+
 
 
 
