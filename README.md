@@ -24,6 +24,9 @@ articlesFrameworks And so on
 ## containerization
 [WhatAmazonDoes](https://www.golem.de/news/bottlerocket-amazon-baut-sich-eigenen-container-host-2003-147184.html)  
 
+## Testing
+[testBenchForTestTools:CodeAnalysisInPractice](https://heise.de/-4679430)
+
 
 
 
