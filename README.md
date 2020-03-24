@@ -28,5 +28,6 @@ articlesFrameworks And so on
 [testBenchForTestTools:CodeAnalysisInPractice](https://heise.de/-4679430)
 
 
-
+## Cloud Services
+[Nasa](https://www.golem.de/news/earthdata-cloud-nasa-uebersieht-aws-kosten-fuer-247-petabyte-2003-147451.html)
 
