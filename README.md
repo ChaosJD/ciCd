@@ -31,3 +31,7 @@ articlesFrameworks And so on
 ## Cloud Services
 [Nasa](https://www.golem.de/news/earthdata-cloud-nasa-uebersieht-aws-kosten-fuer-247-petabyte-2003-147451.html)
 
+## Monitoring
+* Kibana, ElasticSearch
+* Logstash, ElastiSearch
+[Monitoring-Werkzeug: Cortex erreicht Version 1.0 ](https://heise.de/-4696069 )
