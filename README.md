@@ -25,7 +25,9 @@ articlesFrameworks And so on
 [WhatAmazonDoes](https://www.golem.de/news/bottlerocket-amazon-baut-sich-eigenen-container-host-2003-147184.html)  
 
 ## Testing
-[testBenchForTestTools:CodeAnalysisInPractice](https://heise.de/-4679430)
+[testBenchForTest:CodeAnalysisInPractice](https://heise.de/-4679430)  
+[Puppeteer 3.0 spielt mit Firefox zusammen](https://heise.de/-4705523)  
+[Testautomatisierung: Google Puppeteer 1.0 für Chrome fertiggestellt](https://heise.de/-3944817)
 
 
 ## Cloud Services
@@ -34,4 +36,7 @@ articlesFrameworks And so on
 ## Monitoring
 * Kibana, ElasticSearch
 * Logstash, ElastiSearch
-[Monitoring-Werkzeug: Cortex erreicht Version 1.0 ](https://heise.de/-4696069 )
+[Monitoring-Werkzeug: Cortex erreicht Version 1.0 ](https://heise.de/-4696069)  
+
+## Tools
+
