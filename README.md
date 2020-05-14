@@ -40,4 +40,5 @@ articlesFrameworks And so on
 [Monitoring-Werkzeug: Cortex erreicht Version 1.0 ](https://heise.de/-4696069)  
 
 ## Tools
-
+* [Tekton_Google](https://cloud.google.com/tekton)  
+* [terraform](https://www.terraform.io/)  
