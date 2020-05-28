@@ -6,7 +6,7 @@ articlesFrameworks And so on
 * [Screwdriver-HeiseOnline](https://www.heise.de/developer/meldung/Continuous-Delivery-Foundation-nimmt-Screwdriver-als-Inkubationsprojekt-auf-4665695.html)  
 * [WhyTestingIsImportant](https://www.golem.de/news/softwarefehler-in-der-raumfahrt-in-den-neunzigern-stuerzte-alles-ab-1511-117537.html)  
 * [VW Golf 8: Lieferstopp wegen eCall-Problem, Rückruf droht ](https://heise.de/-4722518 )
- * []()
+ * [softwarefehler-in-der-raumfahrt-in-den-neunzigern-stuerzte-alles-ab](https://www.golem.de/news/softwarefehler-in-der-raumfahrt-in-den-neunzigern-stuerzte-alles-ab-1511-117537.html)
 
 ## Build Platforms
 [screwdriver](https://screwdriver.cd/)  
@@ -49,4 +49,4 @@ articlesFrameworks And so on
 * [Gut dokumentiert: Architecture Decision Records](https://heise.de/-4664988)
 
 ## failure examples
-* [Liste_von_Programmfehlerbeispielen](https://de.wikipedia.org/wiki/Liste_von_Programmfehlerbeispielen)
+* [Liste_von_Programmfehlerbeispielen, wikipedia](https://de.wikipedia.org/wiki/Liste_von_Programmfehlerbeispielen)
