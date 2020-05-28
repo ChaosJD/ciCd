@@ -6,6 +6,7 @@ articlesFrameworks And so on
 [Screwdriver-HeiseOnline](https://www.heise.de/developer/meldung/Continuous-Delivery-Foundation-nimmt-Screwdriver-als-Inkubationsprojekt-auf-4665695.html)  
 [WhyTestingIsImportant](https://www.golem.de/news/softwarefehler-in-der-raumfahrt-in-den-neunzigern-stuerzte-alles-ab-1511-117537.html)  
 * [VW Golf 8: Lieferstopp wegen eCall-Problem, Rückruf droht ](https://heise.de/-4722518 )
+ * []()
 
 ## Build Platforms
 [screwdriver](https://screwdriver.cd/)  
@@ -43,3 +44,6 @@ articlesFrameworks And so on
 ## Tools
 * [Tekton_Google](https://cloud.google.com/tekton)  
 * [terraform](https://www.terraform.io/)  
+
+## documentation
+* [Gut dokumentiert: Architecture Decision Records](https://heise.de/-4664988)
