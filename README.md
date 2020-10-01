@@ -1,5 +1,4 @@
 # ciCd
-articlesFrameworks And so on
 
 
 ## article
@@ -10,6 +9,7 @@ articlesFrameworks And so on
  * [Microsofts Github bringt den Super Linter](https://www.golem.de/news/development-microsofts-github-bringt-den-super-linter-2006-149210.html)
  * [Code-Analyse: GitHub entwickelt Super Linter und gibt Quellcode frei ](https://www.heise.de/news/Code-Analyse-GitHub-entwickelt-Super-Linter-und-gibt-Quellcode-frei-4790939.html)
  * [Continuous Integration: Jenkins ist Klassenerster der Cloud Delivery Foundation](https://heise.de/-4863107)
+ * [Entwicklungsumgebung: JetBrains veröffentlicht Plug-in für Pair Programming](https://heise.de/-4915934)
 
 ## buildPlatform
 [screwdriver](https://screwdriver.cd/)  
